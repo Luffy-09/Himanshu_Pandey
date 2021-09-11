@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Himanshu_Pandey/static/css/main.f3beb914.chunk.css",
+    "main.js": "/Himanshu_Pandey/static/js/main.7db61a0c.chunk.js",
+    "main.js.map": "/Himanshu_Pandey/static/js/main.7db61a0c.chunk.js.map",
+    "runtime-main.js": "/Himanshu_Pandey/static/js/runtime-main.dbd58aa3.js",
+    "runtime-main.js.map": "/Himanshu_Pandey/static/js/runtime-main.dbd58aa3.js.map",
+    "static/js/2.632f3123.chunk.js": "/Himanshu_Pandey/static/js/2.632f3123.chunk.js",
+    "static/js/2.632f3123.chunk.js.map": "/Himanshu_Pandey/static/js/2.632f3123.chunk.js.map",
+    "index.html": "/Himanshu_Pandey/index.html",
+    "static/css/main.f3beb914.chunk.css.map": "/Himanshu_Pandey/static/css/main.f3beb914.chunk.css.map",
+    "static/js/2.632f3123.chunk.js.LICENSE.txt": "/Himanshu_Pandey/static/js/2.632f3123.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dbd58aa3.js",
+    "static/js/2.632f3123.chunk.js",
+    "static/css/main.f3beb914.chunk.css",
+    "static/js/main.7db61a0c.chunk.js"
+  ]
+}
